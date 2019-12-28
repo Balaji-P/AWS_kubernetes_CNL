@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
   - name: app-server
-    image: jjino/appserver:latest
+    image: bvijaycom/appserver:latest
     ports:
     - containerPort: 80
 ---
